@@ -1,0 +1,4 @@
+type,amount,category,date
+Income,100000.0,monthly,2025-04-19
+Expense,10000.0,school fee,2025-04-19
+Expense,20000.0,food,2025-04-19
